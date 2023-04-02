@@ -21,6 +21,6 @@
 	  {"id":2, "file":0, "city":"united kingdom","country":"unitedkingdom","image":"southkorea","ip":"220.71.160.189","active":"false","signal":"a"}
 	  {"id":3, "file":10, "city":"Japan","country":"Japan","image":"japan","ip":"76.173.36.8","active":"true","signal":"a"},
 	  {"id":4, "file":0, "city":"Republic of Korea","country":"Republic of Korea","image":"southkorea","ip":"220.71.160.189","active":"false","signal":"a"},
-	  {"id":12, "file":12, "city":"Thailand","country":"Thailand","image":"thailand","ip":"76.173.36.8","active":"true","signal":"c"},
+	  {"id":5, "file":12, "city":"Thailand","country":"Thailand","image":"thailand","ip":"76.173.36.8","active":"true","signal":"c"},
   ]
 }
